@@ -3,7 +3,7 @@ import os
 import jinja2
 import uvicorn
 
-import templates
+import templates.profile_template
 import restapi
 
 

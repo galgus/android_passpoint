@@ -1,0 +1,8 @@
+bin/
+lib/
+lib64
+pyvenv.cfg
+__pycache__               
+android_passpoint.egg-info
+certificates              
+profiles
